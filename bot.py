@@ -1,7 +1,13 @@
-from instabot import Bot 
-new_bot = Bot()
-new_bot.login(username="erikbo848", password="erik.848.981")
-
-# message = "Hi heba"
-# new_bot.send_message(message, "heba_astef")
-new_bot.follow("heba_astef")
+from instabot import Bot
+# import os 
+# import glob
+# cookie_del = glob.glob("config/*cookie.json")
+# os.remove(cookie_del[0])
+bot = Bot()
+bot.login(username="erikbo848",
+          password="erik.848")
+ 
+# Follow
+ 
+# To follow single person.
+bot.follow("geeks_for_geeks")
