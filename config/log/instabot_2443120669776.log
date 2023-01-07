@@ -1,0 +1,23 @@
+2023-01-06 14:41:52,184 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2023-01-06 14:41:52,185 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\bbf\AppData\Local\Programs\Python\Python311\Lib\site-packages\instabot\bot\bot.py
+2023-01-06 14:41:52,264 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2023-01-06 14:41:52,265 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2023-01-06 14:41:52,266 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\bbf\Desktop\bot/config/eriktbo981_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=077451d3-deba-466b-968c-7b3164e5df84
+- uuid=77b1300b-e144-440e-afaf-689e140a54b7
+- client_session_id=82c11d09-f3c6-4625-b988-e39d4c2bb4b5
+- device_id=android-48ccb9782a763a74
+2023-01-06 14:41:52,268 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2023-01-06 14:41:55,122 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2023-01-06 14:41:55,914 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2023-01-06 14:41:55,918 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'eriktbo981'!
+2023-01-06 14:41:55,919 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\bbf\Desktop\bot/config/eriktbo981.checkpoint
+2023-01-06 14:41:56,732 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/heba_astef/usernameinfo/ returned response: <Response [200]>
+2023-01-06 14:41:57,858 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/threads/broadcast/text/ returned response: <Response [200]>
+2023-01-06 14:41:59,089 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/53301047771/info/ returned response: <Response [200]>
+2023-01-06 14:42:00,013 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/53301047771/followers/?rank_token=57643561714_77b1300b-e144-440e-afaf-689e140a54b7 returned response: <Response [200]>
+2023-01-06 14:42:00,022 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\bbf\Desktop\bot/config/eriktbo981.checkpoint
+2023-01-06 14:42:00,037 - instabot version: 0.117.0 (bot) - INFO - Total follows: 1/61
+2023-01-06 14:42:00,038 - instabot version: 0.117.0 (bot) - INFO - Total messages: 6/70
+2023-01-06 14:42:00,039 - instabot version: 0.117.0 (bot) - INFO - Total requests: 51
